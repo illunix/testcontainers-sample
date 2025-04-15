@@ -1,6 +1,6 @@
 # Integration Testing With Testcontainers
 
-You can read more about this here [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet).
+You can read more about this here [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 
 **Whenever you're ready, there are 2 ways I can help you:**:
 
